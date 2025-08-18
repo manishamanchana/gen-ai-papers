@@ -1,11 +1,9 @@
 # Generative AI Papers — Master Index
 
-Organize notes under `topics/<area>/` and add links here.
+## Llms
+- [2017 — Attention Is All You Need](topics/llms/2017-attention-is-all-you-need.md)
 
-## LLMs
-- _No entries yet_
-
-## RAG
+## Rag
 - _No entries yet_
 
 ## Alignment
